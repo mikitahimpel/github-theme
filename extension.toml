@@ -1,0 +1,7 @@
+id = "github-theme"
+name = "GitHub Theme"
+version = "0.1.0"
+schema_version = 1
+authors = ["Mikita Himpel <mikitahimpel@users.noreply.github.com>"]
+description = "GitHub's color themes for Zed — includes Dark, Light, Dimmed, Classic, High Contrast, and Colorblind variants"
+repository = "https://github.com/mikitahimpel/github-theme"
