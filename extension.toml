@@ -1,7 +1,7 @@
-id = "github-theme"
-name = "GitHub Theme"
+id = "github-exact-theme"
+name = "GitHub Exact Theme"
 version = "0.1.0"
 schema_version = 1
 authors = ["Mikita Himpel <mikitahimpel@users.noreply.github.com>"]
-description = "GitHub's color themes for Zed — includes Dark, Light, Dimmed, Classic, High Contrast, and Colorblind variants"
+description = "Faithful 1:1 port of GitHub's VS Code theme (Primer) for Zed — Dark, Light, Dimmed, Classic, High Contrast, and Colorblind variants"
 repository = "https://github.com/mikitahimpel/github-theme"
